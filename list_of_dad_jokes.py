@@ -10,4 +10,14 @@ dad_jokes =[
     "My dad told me a joke about boxing. I guess I missed the punch line.",
     "Where do basketball players go when they need a uniform? New Jersey.",
     "Why don't football players were glasses? It's a contact sport."
+    "All vampires keep their money in a special place—the blood bank.",
+    "I ate a clock the other day. It was very time consuming.",
+    "I once wrote a song about a tortilla, but it's more of a wrap.",
+    "Why did the picture go to prison? Because it was framed.",
+    "My boss told me to have a good day, so I went home!",
+    "Wanna hear a joke about paper? Never mind. It's tearable.",
+    "Why are spiders so smart? They can find everything on the web.",
+    "What kind of car does a sheep like to drive? A lamborghini.",
+    "What key is used to open bananas? A mon-key.",
+    "How do you talk to a giant? You use big words!"
 ]
